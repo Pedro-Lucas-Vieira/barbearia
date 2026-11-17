@@ -1,3 +1,4 @@
+Este site completo de uma barbearia é o resultado prático de uma trilha intensiva de aprendizado composta por **4 cursos consecutivos de HTML5 e CSS3**. O projeto foi evoluindo de uma página estática simples até se tornar um portal completo.
 
 ---
 
